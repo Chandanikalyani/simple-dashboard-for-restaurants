@@ -1,5 +1,5 @@
-import { Container } from "postcss";
 import React from "react";
+import Container from './Components/Container'
 
 const App = () => {
 return (
